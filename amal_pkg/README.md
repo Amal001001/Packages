@@ -1,0 +1,2 @@
+### NewClass Package Details
+    - This package computes the max element, min element, max element squared, length, positive elements sum, negative elements count, average and reversed list of a sorted list.
